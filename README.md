@@ -3,8 +3,8 @@
 Caso tenha sugestão cadastre uma nova issue.
 
 
-[Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
-[From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b)
-[ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)
-[Frontend challenges](https://github.com/LFeh/frontend-challenges)
+* [Eloquente Javascript](https://github.com/braziljs/eloquente-javascript)
+* [From Zero to Front-end Hero (Part 2)](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b)
+* [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)
+* [Frontend challenges](https://github.com/LFeh/frontend-challenges)
 
