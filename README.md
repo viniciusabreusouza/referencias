@@ -12,4 +12,4 @@ Caso tenha sugestão cadastre uma nova issue.
 
 
 * [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes)
-
+* [Git e contribuições para projetos Open Source](https://www.udemy.com/git-e-github/)
