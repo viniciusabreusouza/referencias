@@ -8,7 +8,7 @@ Caso tenha sugestão cadastre uma nova issue.
 * [ES6 para humanos](https://github.com/alexmoreno/ES6-para-humanos)
 * [Frontend challenges](https://github.com/LFeh/frontend-challenges)
 
-# Cursos
+# Cursos da Udemy
 
 
 * [Git e GitHub para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes)
